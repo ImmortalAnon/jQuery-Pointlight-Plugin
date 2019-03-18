@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <title>jQuery PointLight</title>
+    <link href="assets/css/styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div class="content">
+    <h1>jQuery PointLight</h1>
+    <h5>by Chris Clemmons</h5>
+
+    <div class="container">
+        <button type="button" class="my-button">My Big Button</button>
+        <button type="button" class="my-button">Another Big Button</button>
+        <button type="button" class="my-button">This is a Bigger Button</button>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="src/jquery.pointlight.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.my-button').pointLight();
+    });
+</script>
+
+</body>
+</html>
