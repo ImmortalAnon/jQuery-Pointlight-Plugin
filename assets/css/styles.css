@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: #fff;
 }
 .content {
     margin-top: 5%;
@@ -14,8 +14,8 @@ body {
     text-align: center;
 }
 .my-button {
-    border: 2px solid #333;
-    background-color: #555;
+    border: 2px solid #00404b;
+    background-color: #005a65;
     padding: 20px 15px;
     text-shadow: 1px 2px 2px rgba(0,0,0,0.8);
     font-weight:bold;

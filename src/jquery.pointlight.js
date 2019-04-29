@@ -33,15 +33,14 @@
 
 (function ($) {
     'use strict';
-    'use strict';
 
     $.fn.pointLight = function (options) {
         var settings = $.extend({
             // These are the defaults.
-            bg_innerColor: "#888",
+            bg_innerColor: "#00a9b4",
             bg_outerColor: "transparent",
-            border_innerColor: "#333",
-            border_outerColor: "#ddd",
+            border_innerColor: "#00404b",
+            border_outerColor: "#00f4ff",
         }, options );
 
         this.mousemove(function(e) {
