@@ -2,7 +2,7 @@
   "name": "jquery-pointlight-plugin",
   "version": "1.0.2",
   "description": "A jQuery Plugin that adds a Windows 10 mouse hover like effect on buttons or any block elements of your choice.",
-  "homepage": "http://immortalanon.github.io/jQuery-Mask-Plugin/",
+  "homepage": "http://immortalanon.github.io/jQuery-Pointlight-Plugin/",
   "author": "Chris Clemmons <trix21@gmail.com>",
   "main": "./dist/jquery.pointlight.js",
   "repository": {
